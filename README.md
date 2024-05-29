@@ -10,9 +10,13 @@ See the [RSS-Reborn Hub](https://github.com/RSS-Reborn/RSS-Reborn) for more info
 
 ### Spatial Resolution Information:
 
-86k - 464m per pixel - 10.5gb Uncompressed
-64k - 612m per pixel - 7.75gb Uncompressed
-42k - 928m per pixel - 3.37gb Uncompressed
-32k - 1223m per pixel
-16k - 2446m per pixel
+- 86k - 464m per pixel - 10.5gb Uncompressed
+
+- 64k - 612m per pixel - 7.75gb Uncompressed
+
+- 42k - 928m per pixel - 3.37gb Uncompressed
+
+- 32k - 1223m per pixel
+
+- 16k - 2446m per pixel
 
